@@ -1,0 +1,11 @@
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\UWP Basic App.csproj.AssemblyReference.cache
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\App.g.i.cs
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\App.g.cs
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\MainPage.g.cs
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\App.xaml
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\MainPage.xaml
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\App.xbf
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\MainPage.xbf
+C:\Users\vagishn\Downloads\WinappWebView2TesingWithDebugger-master\WinappWebView2TesingWithDebugger-master\BasicWPFAppWithWebView2\UWP Basic App\obj\x64\Debug\XamlSaveStateFile.xml
